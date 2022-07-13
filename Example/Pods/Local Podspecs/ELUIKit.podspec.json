@@ -1,0 +1,22 @@
+{
+  "name": "ELUIKit",
+  "version": "0.1.0",
+  "summary": "A short description of ELUIKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Eric Liang/ELUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eric Liang": "355012885@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Eric Liang/ELUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ELUIKit/Classes/**/*"
+}

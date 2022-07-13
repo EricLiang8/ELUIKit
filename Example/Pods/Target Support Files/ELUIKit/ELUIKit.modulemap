@@ -1,0 +1,6 @@
+framework module ELUIKit {
+  umbrella header "ELUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
